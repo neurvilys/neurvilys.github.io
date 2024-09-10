@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://neurvilys.github.io/sitemap.html.gz
+Sitemap: https://neurvilys.github.io/app/sitemap.html.gz
+Sitemap: https://neurvilys.github.io/assets/sitemap.html.gz
+Sitemap: https://neurvilys.github.io/css/sitemap.html.gz
+Sitemap: https://neurvilys.github.io/includes/sitemap.html.gz
+Sitemap: https://neurvilys.github.io/item/sitemap.html.gz
+Sitemap: https://neurvilys.github.io/src/sitemap.html.gz
